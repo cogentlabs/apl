@@ -21,4 +21,4 @@ If you use this code, please cite:
 
 Tiago Ramalho, Marta Garnelo\
 *Adaptive Posterior Learning: few-shot learning with a surprise-based memory module*\
-In the proceedings of the International Conference on Machine Learning (ICML), 2019.
+In the proceedings of the International Conference on Learning Representations (ICLR), 2019.
